@@ -1,4 +1,4 @@
-package org.mintic.modelo;
+package org.mintic.modelo.Modelo;
 
 
 import java.sql.*;
@@ -28,7 +28,7 @@ public class ConexionBd {
     public static void main (String[] args){
         try {
             conx = conectar();
-            String consulta = "INSERT INTO usuarios (id_usuario, nombre_usuario, apellido_usuario, email_usuario, password_usuario, telefono_usuario, direccion_usuario, cod_rol) VALUES ('1010198','Leandro','Calderon','bra123@mintic.com','br123','31029274','calle 3a','3')";
+            String consulta = "INSERT INTO usuarios (id_usuario, nombre_usuario, apellido_usuario, email_usuario, password_usuario, telefono_usuario, direccion_usuario, cod_rol) VALUES ('1010198119','Leandro','Calderon','bra123@mintic.com','br123','31029274','calle 3a','3')";
             ps = conx.prepareStatement(consulta);
             int i = ps.executeUpdate();
             if (i > 0) {

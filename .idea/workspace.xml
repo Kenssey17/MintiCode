@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1606fdf-4794-4b11-a861-8497beb8f48e" name="Changes" comment="Leandro Calderon">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/ConexionBd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/ConexionBd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/Usuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/Usuarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/UsuariosSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mintic/modelo/UsuariosSql.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="85c95122-c673-4be7-9532-b2f046afd359" />
+    <option name="defaultAccountId" value="44439ba7-64d2-485e-8eac-c0ad9c1c0bb7" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,15 +43,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Leandro/IdeaProjects/MintiCode/src/main/java/org/mintic/vista",
+    "last_opened_file_path": "C:/Users/Leandro/IdeaProjects/MintiCode",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "settings.typescriptcompiler"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "java.sql.Driver"
+      "java.sql.Driver",
+      "mysql"
     ],
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
       "MySQL"
@@ -81,6 +78,9 @@
       <workItem from="1664190361209" duration="4905000" />
       <workItem from="1664278614536" duration="12633000" />
       <workItem from="1664501167383" duration="3447000" />
+      <workItem from="1664506242541" duration="1674000" />
+      <workItem from="1665194629110" duration="1506000" />
+      <workItem from="1665196524792" duration="2707000" />
     </task>
     <servers />
   </component>

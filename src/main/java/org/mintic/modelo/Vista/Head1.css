@@ -1,0 +1,45 @@
+body{color: blue;
+    background-color: aquamarine;
+margin: 0;
+line-height: 1.4em;};
+
+
+
+.container{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+};
+
+.header{
+    color:white;
+    background-color: blue;
+    
+}
+.log-nav-container {display: flex;
+    justify-content: space-between;
+
+};
+.header a {color: white;
+    text-decoration: none;
+};
+
+
+.button{
+    background-color: blueviolet;
+    color:white;
+};
+
+
+
+
+/* 
+.log-nav-container{
+    
+};
+
+nav.navbar1{
+background-color: blueviolet;
+color:black;
+resize: small;
+}; */

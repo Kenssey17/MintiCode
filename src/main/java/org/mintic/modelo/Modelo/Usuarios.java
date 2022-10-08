@@ -1,4 +1,4 @@
-package org.mintic.modelo;
+package org.mintic.modelo.Modelo;
 
 public class Usuarios {
 
